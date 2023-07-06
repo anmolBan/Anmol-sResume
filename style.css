@@ -55,3 +55,24 @@ hr{
     padding: 0rem 0.5rem;
 }
 
+/* navigation */
+
+.navigation{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.nav-brand{
+    font-weight: bold;
+}
+
+.nav-pills{
+    text-align: right;
+}
+
+.navigation .link{
+    color: white;
+}

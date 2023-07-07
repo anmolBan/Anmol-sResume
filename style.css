@@ -2,6 +2,7 @@
 
 :root{
     --primary-color: #1e40af;
+    --off-white-color: #a8a29e;
 }
 
 body{
@@ -94,4 +95,20 @@ hr{
     color: var(--primary-color);
     padding-top: 1rem;
 }
+
+/* section */
+
+.section{
+    padding: 2rem;
+}
+
+.section h3{
+    text-align: center;
+}
+
+.off-white{
+    background-color: var(--off-white-color);
+}
+
+
 

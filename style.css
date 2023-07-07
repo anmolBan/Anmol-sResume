@@ -29,6 +29,7 @@ hr{
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem; 
+    font-weight: 700;
 }
 
 .link-primary{
@@ -88,12 +89,12 @@ hr{
     max-width: 350px;
     display: block;
     margin: auto;
-    background-color: black;
 }
 
 .hero-heading{
     color: var(--primary-color);
     padding-top: 1rem;
+    text-align: center;
 }
 
 /* section */
@@ -110,5 +111,20 @@ hr{
     background-color: var(--off-white-color);
 }
 
+/* footer */
 
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 0rem;
+    text-align: center;
+    color: white;
+}
+
+.footer .link{
+    color: white;
+}
+
+.social-links{
+    padding-inline-start: 0px;
+}
 

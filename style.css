@@ -76,3 +76,22 @@ hr{
 .navigation .link{
     color: white;
 }
+
+/* header */
+
+.hero{
+    padding: 2rem;
+}
+
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+    background-color: black;
+}
+
+.hero-heading{
+    color: var(--primary-color);
+    padding-top: 1rem;
+}
+

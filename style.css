@@ -37,7 +37,7 @@ hr{
     font-weight: 700;
     color: white;
     border-radius: 0.5rem;
-    margin-top: 5rem;
+    margin-top: 14rem;
 }
 
 .link-secondary{
@@ -45,7 +45,7 @@ hr{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
-    margin-top: 5rem;
+    /* margin: auto; */
 }
 
 /* lists */
@@ -109,8 +109,6 @@ hr{
 
 .section{
     padding: 2rem;
-    /* background-color: black; */
-    /* margin-bottom: 100px; */
 }
 
 .section h3{
